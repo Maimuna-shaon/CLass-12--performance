@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color: rgb(191, 153, 230);
+    !important
+    color:crimson;
+}
+#p2{
+    color:blueviolet
+}
+.class1{
+    color:darkmagenta;
+    background-color: rgb(230, 182, 11);
+}
